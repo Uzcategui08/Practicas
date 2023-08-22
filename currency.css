@@ -77,12 +77,6 @@ body{
     outline: 0;
 }
 
-@media (min-width: 768px) {
-    .inputb {
-    font-size: 24px;
-    min-width: 196px;
-}
-}
 .footer{
     height: 40px;
     width: 40px;
